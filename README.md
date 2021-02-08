@@ -10,7 +10,7 @@ Anuncios de __alquiler de inmuebles en las principales plataformas__.
 
 Las características de este dataset son las siguientes:
 
-* __Frecuencia de actualización__: diariamente
+* __Frecuencia de actualización__: actualizado cada 7 días
 * __Volumen estimado__: 
 * __Histórico__: 
 

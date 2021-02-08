@@ -1,7 +1,31 @@
-# Inmuebles en Alquiler
+# Datasets de Inmuebles en Alquiler
 
-Anuncios de alquiler de inmuebles en las principales plataformas. Este dataset se puede adquirir en [Data Market](https://datamarket.es/#inmuebles-en-alquiler-dataset), plataforma de referencia de datos externos en España. Puede consultar nuestro catálogo de datos en la siguiente url: [datamarket.es](https://datamarket.es/)
+<a href="https://datamarket.es">
+  <img src="https://datamarket.es/static/core/img/banners/noticias-economicas-banner.png">
+</a>
 
+## Descripción
+
+Anuncios de __alquiler de inmuebles en las principales plataformas__.
+
+Las características de este dataset son las siguientes:
+
+* __Frecuencia de actualización__: diariamente
+* __Volumen estimado__: 
+* __Histórico__: 
+
+El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#inmuebles-en-alquiler-dataset), plataforma de referencia de datos externos en España. 
+
+Este repositorio contiene los siguientes recursos:
+
+* La documentación completa del dataset.
+* Una muestra representativa del mismo disponible para su evaluación y uso gratuito.
+
+## Muestra
+
+La muestra se encuentra disponible para descarga en el siguiente [link](https://github.com/Data-Market/inmuebles-en-alquiler/blob/main/inmuebles-en-alquiler-sample.csv).
+
+## Documentación
 A continuación se muestran las columnas de las que consta el dataset en el formato __nombre_columna__: __ejemplo_columna__, donde ejemplo_columna representa posibles valores que se pueden encontrar en dicha columna.
 
 | website                          | province   | town      | location                                                                          | name                                                                |   price |   area |   rooms |   floor | is_outer   | elevator   | description                                                                                                                                                                                                | publication   | dealer                         | is_professional   | insert_date         |

@@ -26,7 +26,7 @@ Este repositorio contiene los siguientes recursos:
 La muestra se encuentra disponible para descarga en el siguiente [link](https://github.com/Data-Market/inmuebles-en-alquiler/blob/main/inmuebles-en-alquiler-sample.csv).
 
 ## Documentación
-A continuación se muestran las columnas de las que consta el dataset en el formato __nombre_columna__: __ejemplo_columna__, donde ejemplo_columna representa posibles valores que se pueden encontrar en dicha columna.
+A continuación se muestran las columnas de las que consta el dataset junto con su descripción.
 
 | website                          | province   | town      | location                                                                          | name                                                                |   price |   area |   rooms |   floor | is_outer   | elevator   | description                                                                                                                                                                                                | publication   | dealer                         | is_professional   | insert_date         |
 |:---------------------------------|:-----------|:----------|:----------------------------------------------------------------------------------|:--------------------------------------------------------------------|--------:|-------:|--------:|--------:|:-----------|:-----------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|:-------------------------------|:------------------|:--------------------|

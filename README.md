@@ -12,7 +12,7 @@ Las características de este dataset son las siguientes:
 
 * __Frecuencia de actualización__: actualizado cada 7 días
 * __Volumen estimado__: 300.000 registros cada mes
-* __Histórico__: desde febrero de 2021
+* __Histórico__: desde febrero de 2021 en adelante
 
 El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#inmuebles-en-alquiler-dataset), plataforma de referencia de datos externos en España. 
 

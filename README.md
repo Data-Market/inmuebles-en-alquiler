@@ -1,7 +1,7 @@
 # Datasets de Inmuebles en Alquiler
 
 <a href="https://datamarket.es">
-  <img src="https://datamarket.es/static/core/img/banners/inmuebles-en-alquiler-banner.png">
+  <img src="https://datamarket.es/media/banners/inmuebles-en-alquiler-banner.png">
 </a>
 
 ## Descripción
